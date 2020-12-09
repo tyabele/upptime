@@ -76,19 +76,19 @@
     "url": "$SS_VAULT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vault",
-    "status": "down",
-    "uptime": "5.54%",
-    "uptimeDay": "5.54%",
-    "uptimeWeek": "5.54%",
-    "uptimeMonth": "5.54%",
-    "uptimeYear": "5.54%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "72.18%",
+    "uptimeDay": "72.18%",
+    "uptimeWeek": "72.18%",
+    "uptimeMonth": "72.18%",
+    "uptimeYear": "72.18%",
+    "time": 507,
+    "timeDay": 507,
+    "timeWeek": 507,
+    "timeMonth": 507,
+    "timeYear": 507,
     "dailyMinutesDown": {
-      "2020-12-09": 0
+      "2020-12-09": 4
     }
   }
 ]
