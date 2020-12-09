@@ -8,6 +8,8 @@ sites:
     url: https://www.juxly.com
   - name: Vault Production
     url: https://vault.juxlyapps.com
+  - name: l7 Bar
+    url: https://www.petersonsl7bar.com/
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
