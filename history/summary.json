@@ -22,9 +22,9 @@
     "url": "https://www.petersonsl7bar.com/",
     "icon": "https://favicons.githubusercontent.com/www.petersonsl7bar.com",
     "slug": "l7-bar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 258,
     "timeMonth": 319,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 0
+    }
   },
   {
     "name": "Google",
