@@ -4,18 +4,20 @@
     "url": "https://www.juxly.com",
     "icon": "https://favicons.githubusercontent.com/www.juxly.com",
     "slug": "juxly-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 141,
+    "time": 277,
+    "timeDay": 153,
     "timeWeek": 163,
-    "timeMonth": 190,
-    "timeYear": 278,
-    "dailyMinutesDown": {}
+    "timeMonth": 189,
+    "timeYear": 277,
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "l7 Bar",
